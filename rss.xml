@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Rex on the Road]]></title>
         <description><![CDATA[Rex on the Road]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rex-on-the-road/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 18:43:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 19:00:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rex-on-the-road/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm on an adventure... with heroes. #army #military]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http://scontent.cdninstagram.com/t50.2886-16/13869590_1670872036569507_549173967_n.mp4&src_secure=1&url=https://www.instagram.com/p/BIVeg1yjr90/&image=https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/13739490_661344450699458_1545491960_n.jpg?ig_cache_key=MTMwMzA4MTg2NTM2ODc0Nzg5Mg%3D%3D.2&key=b7d04c9b404c499eba89ee7072e1c4f7&type=video/mp4&schema=instagram" width="658" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.instagram.com/p/BIVeg1yjr90/</link>
+            <guid isPermaLink="false">79c7790a-226b-4999-b5fe-c52b562d53b8</guid>
+            <pubDate>Tue, 26 Jul 2016 19:00:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rex Williams @rexalma]]></title>
             <description><![CDATA[<article><h1>Rex Williams @rexalma</h1><p>Rex Williams (@rexalma) on Periscope. I connect people and ideas. A curious, loyally subversive grass roots corporate revolutionary. #tagtribes Seattle/Everett WA. http://areyoucuriousenough.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd23290d98443484f5b0df06246eac91/noop.jpg?input=https%3A%2F%2Ftn.periscope.tv%2FRGCNoyFl7F6HxfFzRQjMbWTVKoDNt7Lu-9LrS0isiGKZHAkclcVXFRkJVMjWyzcjQN9k8ECCsXC8b4LifLeD8A%3D%3D%2Fchunk_108.jpg%3FExpires%3D1784917047%26Signature%3DbuZTzJEJtPdeP6oE1tMyvukIG2AKOMqN2SEYu4vKt2mWwTan~6AFexzMpCKGadhQGBCvBI4Zhz38tTdVYoMvXVXiq~vzFIPHVN3On4ujVTffFxOAYNIDT0dCMzoUuTsI0aAZzUs3LN1HKpv8nFwS7wXcHNCem9ZgS~bTwDuRHefMudhVb7bS5p-8xPMrkTs9PeGBoYosdk6mnoO1qG4Sz9bck6tzhgdxglk3cPd5KbAuQZeC44-2GIbkY4eMs8APo2pLAhiOMG7AZkjjnzRiSQqYgXna8ZtpAHGZKrzsYLOOxqOr2mupHRcMJwuq-5-FyhaEXe0ouQxtv1E5LE1cSg__%26Key-Pair-Id%3DAPKAIHCXHHQVRTVSFRWQ"></article>]]></description>
